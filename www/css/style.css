@@ -29,6 +29,17 @@ body {
     src: url(Poppins-Black.ttf);
 }
 
+@font-face {
+    font-family: Poppins-light;
+    src: url(/images/Poppins-Light.ttf);
+
+}
+
+@font-face {
+    font-family: Poppins-black;
+    src: url(/images/Poppins-Black.ttf);
+}
+
 .nav {
     display: flex;
     position: fixed;
