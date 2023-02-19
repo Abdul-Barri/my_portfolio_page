@@ -40,6 +40,10 @@ body {
     src: url(/images/Poppins-Black.ttf);
 }
 
+#prof-title {
+    font-weight: 600;
+}
+
 .nav {
     display: flex;
     position: fixed;
